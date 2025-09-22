@@ -1,6 +1,6 @@
 # LAPORAN PENUGASAN 2
 
-# Tugas 2 Membuat profile README 
+# Tugas 2 Membuat profile README 📂
 ![alt text](https://github.com/fathyarenataputri/Pertemuan-3-Metkom-2025/blob/main/download.jpeg?raw=true) 
 # Hi there, I'm Fathya 👋
 
@@ -14,7 +14,7 @@ I enjoy learning new things, especially when it comes to science and technology.
 Feel free to connect and explore my repositories!
 
 
-# Tugas 3
+# Tugas 3 📂
 Dilakukannya git clone, dir, dll untuk menghubungkan antara repositori dari git hub dengan vs code melalui anaconda
 
 ![alt text](https://github.com/fathyarenataputri/Percobaan_Metkom_3/blob/main/Screenshot%20(5411).png?raw=true)
