@@ -16,9 +16,12 @@ Feel free to connect and explore my repositories!
 
 # Tugas 3
 Dilakukannya git clone, dir, dll untuk menghubungkan antara repositori dari git hub dengan vs code melalui anaconda
+
 ![alt text](https://github.com/fathyarenataputri/Percobaan_Metkom_3/blob/main/Screenshot%20(5411).png?raw=true)
 
 ![alt text](https://github.com/fathyarenataputri/Percobaan_Metkom_3/blob/main/Screenshot%20(5412).png?raw=true)
+
+![alt text](https://github.com/fathyarenataputri/Percobaan_Metkom_3/blob/main/Screenshot%20(5413).png?raw=true)
 
 
 
