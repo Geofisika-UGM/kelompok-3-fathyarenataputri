@@ -23,5 +23,7 @@ Dilakukannya git clone, dir, dll untuk menghubungkan antara repositori dari git 
 
 ![alt text](https://github.com/fathyarenataputri/Percobaan_Metkom_3/blob/main/Screenshot%20(5413).png?raw=true)
 
+Fitur Git memiliki fungsi penting dalam pengelolaan repositori, yaitu clone untuk menyalin repositori dari GitHub ke komputer lokal, add untuk menandai file yang berubah, commit untuk menyimpan perubahan di repositori lokal, push untuk mengirim perubahan ke GitHub, pull untuk mengambil sekaligus menggabungkan pembaruan dari GitHub, fetch untuk mengambil pembaruan tanpa langsung digabungkan, dan merge untuk menggabungkan perubahan dari satu branch ke branch lain.
+
 
 
